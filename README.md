@@ -2,6 +2,7 @@
 
 This is a mirror of the information posted on my Nexus Mods account. 
 
+### The Instructions
 This guide assumes you already have Mod Organizer 2 installed and configured for Monster Hunter: World. These instructions are only to show you how to get ReShade working with the DX12 version of MHW without using any weird series of executables.
 1.	Install ReShade for Monster Hunter: World as normal. The ReShade preset you want to install might have special instructions for installing ReShade and you should follow those.
 2.	Launch Mod Organizer 2.
