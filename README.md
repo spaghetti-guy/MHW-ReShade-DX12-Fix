@@ -9,7 +9,7 @@ This guide assumes you already have Mod Organizer 2 installed and configured for
 In theory, you could just install all your mods manually to nativePC as normal then use MO2 and the steps below to launch MHW. But I have not actually tested that. And that would not be taking advantage of the many strengths of MO2.
 
 ### Requirements
-  * Mod Organizer 2 v2.4.1 or greater.
+  * Mod Organizer 2 v2.4.1 or greater, https://github.com/ModOrganizer2/modorganizer/releases/latest.
   * MO2 already configured for Monster Hunter: World.
 
 
